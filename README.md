@@ -6,7 +6,7 @@ This content is made to create content for Trackmania2020, it features:
 - Road generation from a curve, ready for road textures and decohills borders
 
 ## Documentation
-- [User manual](https://github.com/Skyrooow/TM_Procedural_Scenery/blob/main/Manual.pdf)https://github.com/Skyrooow/TM_Procedural_Scenery/blob/main/Manual.pdf
+- [User manual](https://github.com/Skyrooow/TM_Procedural_Scenery/blob/main/Manual.pdf)
 
 ## Contact
 Contact me on discord: @Skyrow
