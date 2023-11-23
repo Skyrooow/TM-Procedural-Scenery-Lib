@@ -1,0 +1,14 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+471c086c-b71a-4e25-8c2c-0bedcd49e2c5:TM Procedural Scenery:TM Procedural Scenery
+faa974dd-1ee4-4823-b0a1-7aa56c9e06f2:TM Procedural Scenery/Demos:TM Procedural Scenery-Demos
+a110cbf3-0b30-419d-b6a8-324e8faea5b9:TM Procedural Scenery/Landscape Grids:TM Procedural Scenery-Landscape Grids
+ed137e30-a7ef-4776-ad95-f6b78729fcb7:TM Procedural Scenery/Materials:TM Procedural Scenery-Materials
+e55da7f9-bbb9-4abc-8336-ec25612dae40:TM Procedural Scenery/Modifiers:TM Procedural Scenery-Modifiers
+14f029b6-05fc-44b6-ba60-86882e6c4f15:TM Procedural Scenery/Modifiers/Utils:TM Procedural Scenery-Modifiers-Utils
