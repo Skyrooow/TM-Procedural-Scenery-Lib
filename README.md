@@ -9,6 +9,9 @@ This content is made to create content for Trackmania2020, it features:
 - Procedurally generate the landscape with some presets and bunch of settings
 - Road generation from a curve, ready for road textures and decohills borders
 
+# Download
+- [Latest release](https://github.com/Skyrooow/TM-Procedural-Scenery-Lib/releases/latest)
+
 ## Documentation & tutorials
 - [Installation](https://github.com/Skyrooow/TM-Procedural-Scenery-Lib/wiki/1%E2%80%90Installation)
 - [Wiki](https://github.com/Skyrooow/TM-Procedural-Scenery-Lib/wiki)
