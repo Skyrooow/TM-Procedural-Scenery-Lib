@@ -1,4 +1,7 @@
-![cover](https://github.com/Skyrooow/TM_Procedural_Scenery/blob/main/Images/Cover.png?raw=true)
+<p align="center">
+  <img width="1000" height="auto" src="https://github.com/Skyrooow/TM-Procedural-Scenery-Lib/blob/main/Images/Cover.png?raw=true">
+</p>
+
 # TM Procedural Scenery
 ## Blender geometry node trees library for Blender 3.6+
 This content is made to create content for Trackmania2020, it features:
