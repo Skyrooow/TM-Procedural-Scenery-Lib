@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="auto" src="https://github.com/Skyrooow/TM-Procedural-Scenery-Lib/blob/main/Images/Cover.png?raw=true">
+  <img width="1000" height="auto" src="https://github.com/Skyrooow/TM-Procedural-Scenery-Lib/assets/151015957/d24bcaaa-b579-4598-b493-9b073f1320b5">
 </p>
 
 # TM Procedural Scenery
