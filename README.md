@@ -17,4 +17,4 @@ This tool is made to create content for Trackmania2020, it features:
 - [Wiki](https://github.com/Skyrooow/TM-Procedural-Scenery-Lib/wiki)
 
 ## Contact
-Contact me on discord: @Skyrow or don't hesitate to ping me on the TSH discord -> [3dmodeling](https://discord.com/channels/891279104794574948/905181250053107722)
+Contact me on discord: @Skyrow or don't hesitate to ping me on the TSH discord -> [3dmodeling](https://discord.gg/6w2WsUedzC)
